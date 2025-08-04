@@ -1,47 +1,18 @@
 # Hi there, I'm Enzo
 
-## AI Workflow Engineer | CS Masters Student | Security Enthusiast
+**AI Workflow Engineer** exploring agentic systems and automation. CS Masters student passionate about building intelligent workflows.
 
-I'm passionate about building intelligent automation systems and exploring the cutting edge of agentic AI. Currently crafting AI-powered workflows while pursuing my Master's in Computer Science.
+### Current Focus
+- Building multi-agent frameworks and MCP servers
+- Designing AI-powered automation pipelines  
+- Developing security tools and infrastructure
 
-### What I'm Working On
-- **Agentic Systems**: Building multi-agent frameworks and MCP servers for intelligent automation
-- **Workflow Engineering**: Designing robust AI-powered automation pipelines
-- **Security Tools**: Developing defensive security solutions and analysis frameworks
-- **Learning**: Deep diving into distributed systems and advanced AI architectures
+### Selected Projects
+- [**AWS InfraSec MCP Server**](https://github.com/lucchesi-sec/aws-infrasec-mcp-server) - MCP development with AWS security analysis
+- [**AWS Security Audit Suite**](https://github.com/lucchesi-sec/aws-security-audit-suite) - Enterprise-grade security scanning
+- [**Ansible Network Automation**](https://github.com/lucchesi-sec/ansible-network-automation-platform) - 23+ infrastructure roles with AI integration
+- [**Password Strength Validator**](https://github.com/lucchesi-sec/password-strength-validator) - NIST SP 800-63B compliant analysis
 
-### Featured Projects
+**Tech:** Python, Go, TypeScript | AWS, Terraform, Ansible | AutoGen, LangChain, MCP
 
-#### AI & Automation
-- **Multi-Agent AutoGen Framework** - Simplifying multi-agent AI system development with Microsoft AutoGen
-- [**AWS InfraSec MCP Server**](https://github.com/lucchesi-sec/aws-infrasec-mcp-server) - MCP development showcase with AWS security analysis capabilities
-- [**AI-Assisted Automation Projects**](https://github.com/lucchesi-sec/ai-assisted-automation-projects) - Portfolio of automation solutions with AI collaboration features
-
-#### Security & Infrastructure
-- [**AWS Security Audit Suite**](https://github.com/lucchesi-sec/aws-security-audit-suite) - Enterprise-grade AWS security scanning with async architecture
-- [**Ansible Network Automation Platform**](https://github.com/lucchesi-sec/ansible-network-automation-platform) - 23+ infrastructure roles with AI integration and zero-trust security
-- [**Network Vulnerability Scanner**](https://github.com/lucchesi-sec/network-vulnerability-scanner) - Comprehensive security assessment with ethical guidelines
-- [**Incident Response Orchestrator**](https://github.com/lucchesi-sec/incident-response-orchestrator) - NIST/SANS compliant incident response automation
-
-#### DevOps & Tools
-- [**Password Strength Validator**](https://github.com/lucchesi-sec/password-strength-validator) - NIST SP 800-63B compliant password analysis with entropy calculation
-- [**SSH Key Lifecycle Manager**](https://github.com/lucchesi-sec/ssh-key-lifecycle-manager) - Automated key management with enterprise safety features
-- [**Linux Server Hardening**](https://github.com/lucchesi-sec/linux-server-hardening) - Modular framework for automated security hardening
-
-### Tech Stack
-```python
-technologies = {
-    "languages": ["Python", "Go", "TypeScript", "PowerShell", "Bash"],
-    "ai_ml": ["AutoGen", "LangChain", "OpenAI", "Claude", "MCP"],
-    "cloud": ["AWS", "Azure", "Terraform", "Ansible"],
-    "security": ["YARA", "Nmap", "SSL/TLS Analysis", "SIEM Integration"],
-    "currently_exploring": ["Agentic AI", "Distributed Systems", "Workflow Orchestration"]
-}
-```
-
-### GitHub Stats
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucchesi-sec&show_icons=true&theme=dark)
-
-### Connect With Me
-- [Website](https://www.edl.sh)
-- [Portfolio](https://github.com/lucchesi-sec/github-portfolio)
+[Website](https://www.edl.sh) | [Portfolio](https://github.com/lucchesi-sec/github-portfolio)
